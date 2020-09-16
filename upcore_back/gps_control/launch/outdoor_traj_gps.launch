@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<launch>
+    <node name="outdoor_gps_pos_ctl_traj" pkg="gps_control" type="outdoor_gps_pos_ctl_traj.py" ></node>
+    <node name="outdoor_xbee_recv_gps" pkg="gps_control" type="outdoor_xbee_recv_gps.py" output="screen" ></node>
+</launch>

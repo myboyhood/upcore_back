@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<launch>
+    <!-- <include file="$(find mission)/launch/mission_mavros.launch">
+    </include> -->
+
+    <node name="mission_node_indoor_with_pnp" pkg="mission" type="mission_node_indoor_with_pnp" output="screen"></node>
+</launch>

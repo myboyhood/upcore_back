@@ -1,0 +1,132 @@
+[
+{
+  "directory": "/home/up/catkin_ws/src/mission/build",
+  "command": "/usr/bin/g++-7  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"mission\\\" -I/usr/include/eigen3 -I/home/up/catkin_ws/src/mission/include -I/home/up/catkin_ws/src/mission/lib -I/home/up/catkin_ws/src/mission/../../devel/include -I/home/up/mavros_ws/devel/.private/mavros_msgs/include -I/home/up/mavros_ws/src/mavros/mavros_msgs/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/usr/include/opencv  -g   -o CMakeFiles/angle_test.dir/module/angle_test.cpp.o -c /home/up/catkin_ws/src/mission/module/angle_test.cpp",
+  "file": "/home/up/catkin_ws/src/mission/module/angle_test.cpp"
+},
+{
+  "directory": "/home/up/catkin_ws/src/mission/build",
+  "command": "/usr/bin/g++-7  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"mission\\\" -I/usr/include/eigen3 -I/home/up/catkin_ws/src/mission/include -I/home/up/catkin_ws/src/mission/lib -I/home/up/catkin_ws/src/mission/../../devel/include -I/home/up/mavros_ws/devel/.private/mavros_msgs/include -I/home/up/mavros_ws/src/mavros/mavros_msgs/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -isystem /usr/include/opencv  -g   -o CMakeFiles/mission_node_outdoor_with_pnp.dir/src/mission_node_outdoor_with_pnp.cpp.o -c /home/up/catkin_ws/src/mission/src/mission_node_outdoor_with_pnp.cpp",
+  "file": "/home/up/catkin_ws/src/mission/src/mission_node_outdoor_with_pnp.cpp"
+},
+{
+  "directory": "/home/up/catkin_ws/src/mission/build",
+  "command": "/usr/bin/g++-7  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"mission\\\" -I/usr/include/eigen3 -I/home/up/catkin_ws/src/mission/include -I/home/up/catkin_ws/src/mission/lib -I/home/up/catkin_ws/src/mission/../../devel/include -I/home/up/mavros_ws/devel/.private/mavros_msgs/include -I/home/up/mavros_ws/src/mavros/mavros_msgs/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -isystem /usr/include/opencv  -g   -o CMakeFiles/mission_node_outdoor_with_carGPS.dir/src/mission_node_outdoor_with_carGPS.cpp.o -c /home/up/catkin_ws/src/mission/src/mission_node_outdoor_with_carGPS.cpp",
+  "file": "/home/up/catkin_ws/src/mission/src/mission_node_outdoor_with_carGPS.cpp"
+},
+{
+  "directory": "/home/up/catkin_ws/src/mission/build",
+  "command": "/usr/bin/g++-7  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"mission\\\" -I/usr/include/eigen3 -I/home/up/catkin_ws/src/mission/include -I/home/up/catkin_ws/src/mission/lib -I/home/up/catkin_ws/src/mission/../../devel/include -I/home/up/mavros_ws/devel/.private/mavros_msgs/include -I/home/up/mavros_ws/src/mavros/mavros_msgs/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -isystem /usr/include/opencv  -g   -o CMakeFiles/mission_node_indoor_with_pnp.dir/src/mission_node_indoor_with_pnp.cpp.o -c /home/up/catkin_ws/src/mission/src/mission_node_indoor_with_pnp.cpp",
+  "file": "/home/up/catkin_ws/src/mission/src/mission_node_indoor_with_pnp.cpp"
+},
+{
+  "directory": "/home/up/catkin_ws/src/mission/build",
+  "command": "/usr/bin/g++-7  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"mission\\\" -I/usr/include/eigen3 -I/home/up/catkin_ws/src/mission/include -I/home/up/catkin_ws/src/mission/lib -I/home/up/catkin_ws/src/mission/../../devel/include -I/home/up/mavros_ws/devel/.private/mavros_msgs/include -I/home/up/mavros_ws/src/mavros/mavros_msgs/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -isystem /usr/include/opencv  -g   -o CMakeFiles/mission_node_gazebo.dir/src/mission_node_gazebo.cpp.o -c /home/up/catkin_ws/src/mission/src/mission_node_gazebo.cpp",
+  "file": "/home/up/catkin_ws/src/mission/src/mission_node_gazebo.cpp"
+},
+{
+  "directory": "/home/up/catkin_ws/src/mission/build",
+  "command": "/usr/bin/g++-7  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"mission\\\" -I/usr/include/eigen3 -I/home/up/catkin_ws/src/mission/include -I/home/up/catkin_ws/src/mission/lib -I/home/up/catkin_ws/src/mission/../../devel/include -I/home/up/mavros_ws/devel/.private/mavros_msgs/include -I/home/up/mavros_ws/src/mavros/mavros_msgs/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -isystem /usr/include/opencv  -g   -o CMakeFiles/mission_node_outdoor_with_pnp_hover.dir/src/mission_node_outdoor_with_pnp_hover.cpp.o -c /home/up/catkin_ws/src/mission/src/mission_node_outdoor_with_pnp_hover.cpp",
+  "file": "/home/up/catkin_ws/src/mission/src/mission_node_outdoor_with_pnp_hover.cpp"
+},
+{
+  "directory": "/home/up/catkin_ws/src/mission/build",
+  "command": "/usr/bin/g++-7  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"mission\\\" -Dmission_lib_EXPORTS -I/usr/include/eigen3 -I/home/up/catkin_ws/src/mission/include -I/home/up/catkin_ws/src/mission/lib -I/home/up/catkin_ws/src/mission/../../devel/include -I/home/up/mavros_ws/devel/.private/mavros_msgs/include -I/home/up/mavros_ws/src/mavros/mavros_msgs/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -isystem /usr/include/opencv  -g -fPIC   -o CMakeFiles/mission_lib.dir/lib/mission_core.cpp.o -c /home/up/catkin_ws/src/mission/lib/mission_core.cpp",
+  "file": "/home/up/catkin_ws/src/mission/lib/mission_core.cpp"
+},
+{
+  "directory": "/home/up/catkin_ws/src/mission/build",
+  "command": "/usr/bin/g++-7  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"mission\\\" -Dmission_lib_EXPORTS -I/usr/include/eigen3 -I/home/up/catkin_ws/src/mission/include -I/home/up/catkin_ws/src/mission/lib -I/home/up/catkin_ws/src/mission/../../devel/include -I/home/up/mavros_ws/devel/.private/mavros_msgs/include -I/home/up/mavros_ws/src/mavros/mavros_msgs/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -isystem /usr/include/opencv  -g -fPIC   -o CMakeFiles/mission_lib.dir/lib/Parameter.cpp.o -c /home/up/catkin_ws/src/mission/lib/Parameter.cpp",
+  "file": "/home/up/catkin_ws/src/mission/lib/Parameter.cpp"
+},
+{
+  "directory": "/home/up/catkin_ws/src/mission/build",
+  "command": "/usr/bin/g++-7  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"mission\\\" -Dmission_lib_EXPORTS -I/usr/include/eigen3 -I/home/up/catkin_ws/src/mission/include -I/home/up/catkin_ws/src/mission/lib -I/home/up/catkin_ws/src/mission/../../devel/include -I/home/up/mavros_ws/devel/.private/mavros_msgs/include -I/home/up/mavros_ws/src/mavros/mavros_msgs/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -isystem /usr/include/opencv  -g -fPIC   -o CMakeFiles/mission_lib.dir/lib/pid_tracker_pose_control.cpp.o -c /home/up/catkin_ws/src/mission/lib/pid_tracker_pose_control.cpp",
+  "file": "/home/up/catkin_ws/src/mission/lib/pid_tracker_pose_control.cpp"
+},
+{
+  "directory": "/home/up/catkin_ws/src/mission/build",
+  "command": "/usr/bin/g++-7  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"mission\\\" -Dmission_lib_EXPORTS -I/usr/include/eigen3 -I/home/up/catkin_ws/src/mission/include -I/home/up/catkin_ws/src/mission/lib -I/home/up/catkin_ws/src/mission/../../devel/include -I/home/up/mavros_ws/devel/.private/mavros_msgs/include -I/home/up/mavros_ws/src/mavros/mavros_msgs/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -isystem /usr/include/opencv  -g -fPIC   -o CMakeFiles/mission_lib.dir/lib/pva_pose_control_compute.cpp.o -c /home/up/catkin_ws/src/mission/lib/pva_pose_control_compute.cpp",
+  "file": "/home/up/catkin_ws/src/mission/lib/pva_pose_control_compute.cpp"
+},
+{
+  "directory": "/home/up/catkin_ws/src/mission/build",
+  "command": "/usr/bin/g++-7  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"mission\\\" -Dmission_lib_EXPORTS -I/usr/include/eigen3 -I/home/up/catkin_ws/src/mission/include -I/home/up/catkin_ws/src/mission/lib -I/home/up/catkin_ws/src/mission/../../devel/include -I/home/up/mavros_ws/devel/.private/mavros_msgs/include -I/home/up/mavros_ws/src/mavros/mavros_msgs/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -isystem /usr/include/opencv  -g -fPIC   -o CMakeFiles/mission_lib.dir/lib/pva_pose_control_tracker.cpp.o -c /home/up/catkin_ws/src/mission/lib/pva_pose_control_tracker.cpp",
+  "file": "/home/up/catkin_ws/src/mission/lib/pva_pose_control_tracker.cpp"
+},
+{
+  "directory": "/home/up/catkin_ws/src/mission/build",
+  "command": "/usr/bin/g++-7  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"mission\\\" -Dmission_lib_EXPORTS -I/usr/include/eigen3 -I/home/up/catkin_ws/src/mission/include -I/home/up/catkin_ws/src/mission/lib -I/home/up/catkin_ws/src/mission/../../devel/include -I/home/up/mavros_ws/devel/.private/mavros_msgs/include -I/home/up/mavros_ws/src/mavros/mavros_msgs/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -isystem /usr/include/opencv  -g -fPIC   -o CMakeFiles/mission_lib.dir/lib/pnp_pose_control.cpp.o -c /home/up/catkin_ws/src/mission/lib/pnp_pose_control.cpp",
+  "file": "/home/up/catkin_ws/src/mission/lib/pnp_pose_control.cpp"
+},
+{
+  "directory": "/home/up/catkin_ws/src/mission/build",
+  "command": "/usr/bin/g++-7  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"mission\\\" -Dmission_lib_EXPORTS -I/usr/include/eigen3 -I/home/up/catkin_ws/src/mission/include -I/home/up/catkin_ws/src/mission/lib -I/home/up/catkin_ws/src/mission/../../devel/include -I/home/up/mavros_ws/devel/.private/mavros_msgs/include -I/home/up/mavros_ws/src/mavros/mavros_msgs/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -isystem /usr/include/opencv  -g -fPIC   -o CMakeFiles/mission_lib.dir/lib/px4_traj_pose_control.cpp.o -c /home/up/catkin_ws/src/mission/lib/px4_traj_pose_control.cpp",
+  "file": "/home/up/catkin_ws/src/mission/lib/px4_traj_pose_control.cpp"
+},
+{
+  "directory": "/home/up/catkin_ws/src/mission/build",
+  "command": "/usr/bin/g++-7  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"mission\\\" -Dmission_lib_EXPORTS -I/usr/include/eigen3 -I/home/up/catkin_ws/src/mission/include -I/home/up/catkin_ws/src/mission/lib -I/home/up/catkin_ws/src/mission/../../devel/include -I/home/up/mavros_ws/devel/.private/mavros_msgs/include -I/home/up/mavros_ws/src/mavros/mavros_msgs/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -isystem /usr/include/opencv  -g -fPIC   -o CMakeFiles/mission_lib.dir/lib/px4_traj_vision_follow_control.cpp.o -c /home/up/catkin_ws/src/mission/lib/px4_traj_vision_follow_control.cpp",
+  "file": "/home/up/catkin_ws/src/mission/lib/px4_traj_vision_follow_control.cpp"
+},
+{
+  "directory": "/home/up/catkin_ws/src/mission/build",
+  "command": "/usr/bin/g++-7  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"mission\\\" -Dmission_lib_EXPORTS -I/usr/include/eigen3 -I/home/up/catkin_ws/src/mission/include -I/home/up/catkin_ws/src/mission/lib -I/home/up/catkin_ws/src/mission/../../devel/include -I/home/up/mavros_ws/devel/.private/mavros_msgs/include -I/home/up/mavros_ws/src/mavros/mavros_msgs/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -isystem /usr/include/opencv  -g -fPIC   -o CMakeFiles/mission_lib.dir/lib/optimal_pose_control.cpp.o -c /home/up/catkin_ws/src/mission/lib/optimal_pose_control.cpp",
+  "file": "/home/up/catkin_ws/src/mission/lib/optimal_pose_control.cpp"
+},
+{
+  "directory": "/home/up/catkin_ws/src/mission/build",
+  "command": "/usr/bin/g++-7  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"mission\\\" -Dmission_lib_EXPORTS -I/usr/include/eigen3 -I/home/up/catkin_ws/src/mission/include -I/home/up/catkin_ws/src/mission/lib -I/home/up/catkin_ws/src/mission/../../devel/include -I/home/up/mavros_ws/devel/.private/mavros_msgs/include -I/home/up/mavros_ws/src/mavros/mavros_msgs/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -isystem /usr/include/opencv  -g -fPIC   -o CMakeFiles/mission_lib.dir/lib/auto_takeoff.cpp.o -c /home/up/catkin_ws/src/mission/lib/auto_takeoff.cpp",
+  "file": "/home/up/catkin_ws/src/mission/lib/auto_takeoff.cpp"
+},
+{
+  "directory": "/home/up/catkin_ws/src/mission/build",
+  "command": "/usr/bin/g++-7  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"mission\\\" -Dmission_lib_EXPORTS -I/usr/include/eigen3 -I/home/up/catkin_ws/src/mission/include -I/home/up/catkin_ws/src/mission/lib -I/home/up/catkin_ws/src/mission/../../devel/include -I/home/up/mavros_ws/devel/.private/mavros_msgs/include -I/home/up/mavros_ws/src/mavros/mavros_msgs/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -isystem /usr/include/opencv  -g -fPIC   -o CMakeFiles/mission_lib.dir/lib/homeward_voyage.cpp.o -c /home/up/catkin_ws/src/mission/lib/homeward_voyage.cpp",
+  "file": "/home/up/catkin_ws/src/mission/lib/homeward_voyage.cpp"
+},
+{
+  "directory": "/home/up/catkin_ws/src/mission/build",
+  "command": "/usr/bin/g++-7  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"mission\\\" -Dmission_lib_EXPORTS -I/usr/include/eigen3 -I/home/up/catkin_ws/src/mission/include -I/home/up/catkin_ws/src/mission/lib -I/home/up/catkin_ws/src/mission/../../devel/include -I/home/up/mavros_ws/devel/.private/mavros_msgs/include -I/home/up/mavros_ws/src/mavros/mavros_msgs/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -isystem /usr/include/opencv  -g -fPIC   -o CMakeFiles/mission_lib.dir/lib/print_to_screen.cpp.o -c /home/up/catkin_ws/src/mission/lib/print_to_screen.cpp",
+  "file": "/home/up/catkin_ws/src/mission/lib/print_to_screen.cpp"
+},
+{
+  "directory": "/home/up/catkin_ws/src/mission/build",
+  "command": "/usr/bin/g++-7  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"mission\\\" -I/usr/include/eigen3 -I/home/up/catkin_ws/src/mission/include -I/home/up/catkin_ws/src/mission/lib -I/home/up/catkin_ws/src/mission/../../devel/include -I/home/up/mavros_ws/devel/.private/mavros_msgs/include -I/home/up/mavros_ws/src/mavros/mavros_msgs/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -isystem /usr/include/opencv  -g   -o CMakeFiles/mission_node_outdoor.dir/src/mission_node_outdoor.cpp.o -c /home/up/catkin_ws/src/mission/src/mission_node_outdoor.cpp",
+  "file": "/home/up/catkin_ws/src/mission/src/mission_node_outdoor.cpp"
+},
+{
+  "directory": "/home/up/catkin_ws/src/mission/build/gtest/googlemock",
+  "command": "/usr/bin/g++-7  -DGTEST_CREATE_SHARED_LIBRARY=1 -Dgmock_main_EXPORTS -I/usr/include/eigen3 -I/usr/src/googletest/googlemock/include -I/usr/src/googletest/googlemock -I/usr/src/googletest/googletest/include -I/usr/src/googletest/googletest  -g -fPIC    -Wall -Wshadow -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles/gmock_main.dir/__/googletest/src/gtest-all.cc.o -c /usr/src/googletest/googletest/src/gtest-all.cc",
+  "file": "/usr/src/googletest/googletest/src/gtest-all.cc"
+},
+{
+  "directory": "/home/up/catkin_ws/src/mission/build/gtest/googlemock",
+  "command": "/usr/bin/g++-7  -DGTEST_CREATE_SHARED_LIBRARY=1 -Dgmock_main_EXPORTS -I/usr/include/eigen3 -I/usr/src/googletest/googlemock/include -I/usr/src/googletest/googlemock -I/usr/src/googletest/googletest/include -I/usr/src/googletest/googletest  -g -fPIC    -Wall -Wshadow -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles/gmock_main.dir/src/gmock-all.cc.o -c /usr/src/googletest/googlemock/src/gmock-all.cc",
+  "file": "/usr/src/googletest/googlemock/src/gmock-all.cc"
+},
+{
+  "directory": "/home/up/catkin_ws/src/mission/build/gtest/googlemock",
+  "command": "/usr/bin/g++-7  -DGTEST_CREATE_SHARED_LIBRARY=1 -Dgmock_main_EXPORTS -I/usr/include/eigen3 -I/usr/src/googletest/googlemock/include -I/usr/src/googletest/googlemock -I/usr/src/googletest/googletest/include -I/usr/src/googletest/googletest  -g -fPIC    -Wall -Wshadow -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles/gmock_main.dir/src/gmock_main.cc.o -c /usr/src/googletest/googlemock/src/gmock_main.cc",
+  "file": "/usr/src/googletest/googlemock/src/gmock_main.cc"
+},
+{
+  "directory": "/home/up/catkin_ws/src/mission/build/gtest/googlemock",
+  "command": "/usr/bin/g++-7  -DGTEST_CREATE_SHARED_LIBRARY=1 -Dgmock_EXPORTS -I/usr/include/eigen3 -I/usr/src/googletest/googlemock/include -I/usr/src/googletest/googlemock -I/usr/src/googletest/googletest/include -I/usr/src/googletest/googletest  -g -fPIC    -Wall -Wshadow -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles/gmock.dir/__/googletest/src/gtest-all.cc.o -c /usr/src/googletest/googletest/src/gtest-all.cc",
+  "file": "/usr/src/googletest/googletest/src/gtest-all.cc"
+},
+{
+  "directory": "/home/up/catkin_ws/src/mission/build/gtest/googlemock",
+  "command": "/usr/bin/g++-7  -DGTEST_CREATE_SHARED_LIBRARY=1 -Dgmock_EXPORTS -I/usr/include/eigen3 -I/usr/src/googletest/googlemock/include -I/usr/src/googletest/googlemock -I/usr/src/googletest/googletest/include -I/usr/src/googletest/googletest  -g -fPIC    -Wall -Wshadow -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles/gmock.dir/src/gmock-all.cc.o -c /usr/src/googletest/googlemock/src/gmock-all.cc",
+  "file": "/usr/src/googletest/googlemock/src/gmock-all.cc"
+},
+{
+  "directory": "/home/up/catkin_ws/src/mission/build/gtest/googlemock/gtest",
+  "command": "/usr/bin/g++-7  -DGTEST_CREATE_SHARED_LIBRARY=1 -Dgtest_main_EXPORTS -I/usr/include/eigen3 -I/usr/src/googletest/googletest/include -I/usr/src/googletest/googletest  -g -fPIC    -Wall -Wshadow -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles/gtest_main.dir/src/gtest_main.cc.o -c /usr/src/googletest/googletest/src/gtest_main.cc",
+  "file": "/usr/src/googletest/googletest/src/gtest_main.cc"
+},
+{
+  "directory": "/home/up/catkin_ws/src/mission/build/gtest/googlemock/gtest",
+  "command": "/usr/bin/g++-7  -DGTEST_CREATE_SHARED_LIBRARY=1 -Dgtest_EXPORTS -I/usr/include/eigen3 -I/usr/src/googletest/googletest/include -I/usr/src/googletest/googletest  -g -fPIC    -Wall -Wshadow -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles/gtest.dir/src/gtest-all.cc.o -c /usr/src/googletest/googletest/src/gtest-all.cc",
+  "file": "/usr/src/googletest/googletest/src/gtest-all.cc"
+}
+]

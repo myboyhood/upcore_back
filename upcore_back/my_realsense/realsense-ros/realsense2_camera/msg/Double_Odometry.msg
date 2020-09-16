@@ -1,0 +1,6 @@
+Header header
+string child_frame_id
+geometry_msgs/PoseWithCovariance pose_1
+geometry_msgs/TwistWithCovariance twist_1
+geometry_msgs/PoseWithCovariance pose_2
+geometry_msgs/TwistWithCovariance twist_2

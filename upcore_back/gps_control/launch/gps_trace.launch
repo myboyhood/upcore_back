@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<launch>
+<!--    <node name="gps_pos_ctl_direct" pkg="gps_control" type="gps_pos_ctl_direct.py"></node>-->
+    <node name="gps_pos_ctl_direct" pkg="gps_control" type="gps_pos_ctl_traj.py" ></node>
+<!--    <node name="gps_pos_ctl" pkg="gps_control" type="gps_pos_ctl.py" output="screen"></node>-->
+    <node name="xbee_pose_recv_test_gazebo" pkg="gps_control" type="xbee_pose_recv_test_outdoor_local.py" output="screen" ></node>
+</launch>

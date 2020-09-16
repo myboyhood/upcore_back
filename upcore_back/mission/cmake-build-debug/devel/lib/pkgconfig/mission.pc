@@ -1,0 +1,8 @@
+prefix=/home/wzy/catkin_ws/src/mission/cmake-build-debug/devel
+
+Name: mission
+Description: Description of mission
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

@@ -1,0 +1,1 @@
+rosbag record /car_local_position /drone_pva_sp_enu /mavros/local_position/odom /mavros/state /mavros/setpoint_position/local /mavros/setpoint_raw/attitude

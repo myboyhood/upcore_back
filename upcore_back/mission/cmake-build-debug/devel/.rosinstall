@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/wzy/catkin_ws/src/mission/cmake-build-debug/devel/setup.sh

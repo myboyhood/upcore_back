@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<launch>
+    <node name="outdoor_gps_pos_ctl_pva" pkg="gps_control" type="outdoor_gps_pos_ctl_pva.py" output="screen"></node>
+    <node name="tracker_mavros_laser" pkg="gps_control" type="tracker_mavros_laser" output="screen"></node>
+    <node name="tracking_compute_laser" pkg="gps_control" type="tracking_compute_laser" output="screen"></node>
+</launch>

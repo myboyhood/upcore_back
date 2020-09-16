@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<launch>
+    <node name="mission_node_outdoor_with_pnp_hover" pkg="mission" type="mission_node_outdoor_with_pnp_hover" output="screen"></node>
+</launch>

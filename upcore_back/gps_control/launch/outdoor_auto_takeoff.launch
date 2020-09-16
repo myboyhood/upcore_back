@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<launch>
+    <node name="outdoor_auto_takeoff" pkg="gps_control" type="outdoor_auto_takeoff.py" output="screen" ></node>
+</launch>

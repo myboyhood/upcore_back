@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<launch>
+    <node name="xbee_pose_recv_test_outdoor_local" pkg="mission" type="xbee_pose_recv_test_outdoor_local.py" output="screen"></node>
+    <node name="mission_node_outdoor" pkg="mission" type="mission_node_outdoor" output="screen"></node>
+</launch>
